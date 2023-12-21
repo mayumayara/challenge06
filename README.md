@@ -7,11 +7,11 @@ From [the Explore programming scholl](https://www.rocketseat.com.br/explorer) by
 ## About the challenge
 
 In this challenge, I had to put into practice everything I learned about HTML and CSS:
-- Inicie o seu projeto levando em consideração a regra do mobile first, como você pode ver, no layout já temos a aplicação responsiva também;
-- Você pode adicionar animações, transições e transformações a seu critério;
-- Seria bacana se já iniciasse o projeto usando as unidades de medida flexíveis (rem);
-- Você pode usar variáveis no CSS pra treinar;
-- Olhe com carinho para a acessibilidade: cuide da semântica do seu HTML.
+- Start your project taking into account the mobile-first rule, as you can see, in the layout we already have the responsive application too;
+- You can add animations, transitions, and transformations at your discretion;
+- It would be cool if you started the project using flexible measurement units (rem);
+- You can use variables in CSS to train;
+- Look carefully at accessibility: take care of the semantics of your HTML.
 
 ## Challenge layout
 
